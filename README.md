@@ -42,10 +42,8 @@
 - [ ] 最后我们会了个面，然后就离开了 -	时过夏末<br />
 <img title="最后我们会了个面，然后就离开了" alt="最后我们会了个面，然后就离开了" src="https://cloud.githubusercontent.com/assets/8455958/22979120/2d42bba0-f3d0-11e6-8204-3cda7eb15655.png" width="200">
 
-- [ ] Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever - Explosions In The Sky<br />
-<img title="Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever" alt="Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever"
-src="https://cloud.githubusercontent.com/assets/8455958/26352781/d8c6a00c-3fef-11e7-99b4-19e9849b24ad.jpg" width="200">
-
 - [ ] Finding Our Way Home - Daycast<br />
-<img title="Finding Our Way Home" alt="Finding Our Way Home"
-src="https://cloud.githubusercontent.com/assets/8455958/26356331/53469af4-3ffe-11e7-822a-f8d9b6a6df33.jpg" width="200">
+<img title="Finding Our Way Home" alt="Finding Our Way Home" src="https://cloud.githubusercontent.com/assets/8455958/26356331/53469af4-3ffe-11e7-822a-f8d9b6a6df33.jpg" width="200">
+
+- [ ] Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever - Explosions In The Sky<br />
+<img title="Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever" alt="Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever" src="https://cloud.githubusercontent.com/assets/8455958/26352781/d8c6a00c-3fef-11e7-99b4-19e9849b24ad.jpg" width="200">
