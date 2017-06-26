@@ -18,7 +18,7 @@
 - [ ] Photograph - The Milo<br />
 <img title="Photograph" alt="Photograph" src="https://cloud.githubusercontent.com/assets/8455958/22978248/efbd2b06-f3cc-11e6-9694-c47168ee649c.png" width="200">
 
-- [ ] 雨昼 - 逆耳<br />
+- [x] 雨昼 - 逆耳<br />
 <img title="雨昼" alt="雨昼" src="https://cloud.githubusercontent.com/assets/8455958/22978321/3840a02e-f3cd-11e6-84ac-ce9283626c9d.png" width="200">
 
 - [ ] Hymn to the Immortal Wind - Mono<br />
